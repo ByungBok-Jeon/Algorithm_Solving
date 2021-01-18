@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-/* SW Expert Acadamy 문제
+/* D1.2072.홀수만 더하기
  * 출처 : https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QSEhaA5sDFAUq&categoryId=AV5QSEhaA5sDFAUq&categoryType=CODE&&&
- * D1.2072.홀수만 더하기
+ * SW Expert Acadamy 문제
  */
 public class Solution_D1_2072_홀수만더하기 {
 
