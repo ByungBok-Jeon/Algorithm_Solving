@@ -5,7 +5,7 @@ import java.util.Scanner;
  * SW Expert Acadamy 문제
  */
 public class Solution_D1_2072_홀수만더하기 {
-
+	
 	public static boolean isEven(int num) {
 		boolean isE = false;
 		if(num % 2 == 0) {
