@@ -16,7 +16,6 @@ public class Solution_D2_1986_지그재그숫자 {
 			return true;
 		}
 	}
-
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		T = scan.nextInt();
@@ -31,8 +30,6 @@ public class Solution_D2_1986_지그재그숫자 {
 				}
 			}
 			System.out.printf("#%d %d\n", t, sum);
-
 		}
 	}
-
 }
