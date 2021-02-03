@@ -15,7 +15,8 @@ import java.util.Scanner;
 				sum += scan.nextInt();
 				
 			}
-			System.out.printf("#%d %d\n",(i+1),(sum/10));
+			int ans = (int)Math.round(sum/10.0);
+			System.out.printf("#%d %d\n",(i+1),ans);
 		}
 	}
 	
