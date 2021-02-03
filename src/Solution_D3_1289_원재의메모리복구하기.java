@@ -24,7 +24,5 @@ public class Solution_D3_1289_원재의메모리복구하기 {
 			}
 			System.out.printf("#%d %d\n", t, count);
 		}
-
 	}
-
 }
