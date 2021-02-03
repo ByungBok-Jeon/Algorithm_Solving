@@ -26,9 +26,6 @@ public class Solution_D2_2007_패턴마디의길이 {
 				}
 			}
 			System.out.printf("#%d %d\n", t, pattern.length());
-
 		}
-
 	}
-
 }
