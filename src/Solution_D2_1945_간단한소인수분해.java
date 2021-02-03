@@ -40,7 +40,5 @@ public class Solution_D2_1945_간단한소인수분해 {
 			}
 			System.out.printf("#%d %d %d %d %d %d\n", t, a, b, c, d, e);
 		}
-
 	}
-
 }
