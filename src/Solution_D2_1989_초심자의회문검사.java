@@ -19,7 +19,6 @@ public class Solution_D2_1989_초심자의회문검사 {
 		}
 		return a;
 	}
-
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		T = Integer.parseInt(scan.nextLine());
