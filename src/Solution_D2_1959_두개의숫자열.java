@@ -62,7 +62,6 @@ public class Solution_D2_1959_두개의숫자열 {
 			ans = Math.max(ans, tmp);
 			idx++;
 		}
-
 		return ans;
 	}
 }
