@@ -3,6 +3,7 @@
  * 출처 : https://www.acmicpc.net/problem/1987
  * Baekjoon Online Judge  문제
  */
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

@@ -3,6 +3,7 @@
  * 출처 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=488&sca=99&sfl=wr_hit&stx=1205
  * 정올  문제
  */
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
