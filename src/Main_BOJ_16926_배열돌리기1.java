@@ -1,3 +1,8 @@
+
+/* 16926번 배열돌리기1
+ * 출처 : https://www.acmicpc.net/problem/16926
+ * Baekjoon Online Judge  문제
+ */
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;
@@ -56,7 +61,7 @@ public class Main_BOJ_16926_배열돌리기1 {
 			int c = a;
 			int nr = r + dr[d];
 			int nc = c + dc[d];
-			for (int i = 0; i < 2 * (M-2*a) + 2 * (N-2*a) - 4; i++) {
+			for (int i = 0; i < 2 * (M - 2 * a) + 2 * (N - 2 * a) - 4; i++) {
 				tmpArr[nr][nc] = map[r][c];
 				rotated[nr][nc] = true;
 				r = nr;
