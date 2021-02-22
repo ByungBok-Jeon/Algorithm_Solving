@@ -1,3 +1,8 @@
+
+/* 1592번 영식이와친구들
+ * 출처 : https://www.acmicpc.net/problem/1592
+ * Baekjoon Online Judge  문제
+ */
 import java.util.Scanner;
 
 public class Main_BOJ_1592_영식이와친구들 {
