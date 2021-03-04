@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+ 
 public class Solution_D2_1976_시각덧셈 {
 	static int T;
 	static int h1, h2, m1, m2;
