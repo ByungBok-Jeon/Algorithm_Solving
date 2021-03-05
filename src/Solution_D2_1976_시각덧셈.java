@@ -4,10 +4,11 @@
  * SW Expert Acadamy 문제
  */
 import java.util.Scanner;
- 
+
 public class Solution_D2_1976_시각덧셈 {
 	static int T;
 	static int h1, h2, m1, m2;
+
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		T = scan.nextInt();
