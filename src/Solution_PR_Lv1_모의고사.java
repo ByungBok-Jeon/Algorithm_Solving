@@ -4,7 +4,6 @@
  * 프로그래머스 문제
  */
 import java.util.Arrays;
-
 public class Solution_PR_Lv1_모의고사 {
 	    static int[] score;
 	    static int[] stu1 = {1,2,3,4,5};
