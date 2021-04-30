@@ -1,3 +1,8 @@
+
+/* Lv2. 기능개발
+ * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42586
+ * 프로그래머스 문제
+ */
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
