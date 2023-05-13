@@ -10,7 +10,7 @@
 3. 나머지 문자는 소문자로
  */
 
-public class Solution_PR_Ex_JadenCase문자열만들기 {
+public class Solution_PR_Lv2_JadenCase문자열만들기 {
 
     public  String solution(String s) {
         String answer = "";

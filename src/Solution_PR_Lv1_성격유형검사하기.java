@@ -5,7 +5,7 @@ Lv1. 성격 유형 검사하기
 출처 : https://school.programmers.co.kr/learn/courses/30/lessons/118666
 프로그래머스 문제
  */
-public class Solutions_PR_Lv1_성격유형검사하기 {
+public class Solution_PR_Lv1_성격유형검사하기 {
     public String solution(String[] survey, int[] choices) {
         String answer = "";
 
